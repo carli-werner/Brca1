@@ -1,8 +1,8 @@
 # Brca1
 Necessary Imports:
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
+#import pandas as pd
+#import numpy as np
+#import matplotlib.pyplot as plt
 
 ClinVar_Missense_Variants.xlsx:
 Excel file containing the missense variant data taken from ClinVar. 

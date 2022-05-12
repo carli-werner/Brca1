@@ -8,7 +8,7 @@ ClinVar_Missense_Variants.xlsx:
 Excel file containing the missense variant data taken from ClinVar. 
 
 ClinVar_Missense_Variants.csv:
-same information as "ClinVar_Missense_Variants.xlsx" excpet in csv format. The raw github link to this file is needed to run "FinalMutationCharts.ipynb"
+same information as "ClinVar_Missense_Variants.xlsx" except in csv format. The raw github link to this file is needed to run "FinalMutationCharts.ipynb"
 and "FinalMutationCharts.py".
 
 FinalMutationCharts.ipynb:
